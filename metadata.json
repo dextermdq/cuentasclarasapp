@@ -1,0 +1,6 @@
+{
+  "name": "Cuentas Claras",
+  "description": "Nodo de procesamiento de ultra-precisión para flujos financieros Antigravity, con entrada de voz y parseo exacto de centavos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
